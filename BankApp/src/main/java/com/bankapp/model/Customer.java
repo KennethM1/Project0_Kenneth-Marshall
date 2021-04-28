@@ -5,7 +5,17 @@ public class Customer {
     private String customer_name;
     private double account_balance;
     private boolean account_approved;
-    private Customer customer_pass;
+    private String customer_pass;
+    private int customer_age;
+
+    public String getCustomer_pass() {
+        return customer_pass;
+    }
+
+    public void setCustomer_pass(String customer_pass) {
+        this.customer_pass = customer_pass;
+    }
+
     private Customer customer_user;
 
     public long getCustomer_id() {
@@ -16,13 +26,7 @@ public class Customer {
         this.customer_id = customer_id;
     }
 
-    public Customer getCustomer_pass() {
-        return customer_pass;
-    }
 
-    public void setCustomer_pass(Customer customer_pass) {
-        this.customer_pass = customer_pass;
-    }
 
     public Customer getCustomer_user() {
         return customer_user;
@@ -68,5 +72,10 @@ public class Customer {
 
     public void setAccount_approved(boolean account_approved) {
         this.account_approved = account_approved;
+    }
+    public Customer message(){
+        Customer wow = new Customer();
+        System.out.println("thanks");
+        return wow;
     }
 }
