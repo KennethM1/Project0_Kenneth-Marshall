@@ -7,6 +7,58 @@ public class Customer {
     private boolean account_approved;
     private String customer_pass;
     private int customer_age;
+    private int account_id;
+    private int deposit_checking;
+    private int checking_account;
+    private int savings_account;
+    private boolean account_approval;
+
+    public void setCustomer_id(long customer_id) {
+        this.customer_id = customer_id;
+    }
+
+    public void setAccount_id(int account_id) {
+        this.account_id = account_id;
+    }
+
+
+    public int getCustomer_age() {
+        return customer_age;
+    }
+
+    public void setCustomer_age(int customer_age) {
+        this.customer_age = customer_age;
+    }
+
+    public int getAccount_id() {
+        return account_id;
+    }
+
+
+
+    public int getChecking_account() {
+        return checking_account;
+    }
+
+    public void setChecking_account(int checking_account) {
+        this.checking_account = checking_account;
+    }
+
+    public int getSavings_account() {
+        return savings_account;
+    }
+
+    public void setSavings_account(int savings_account) {
+        this.savings_account = savings_account;
+    }
+
+    public boolean isAccount_approval() {
+        return account_approval;
+    }
+
+    public void setAccount_approval(boolean account_approval) {
+        this.account_approval = account_approval;
+    }
 
     public String getCustomer_pass() {
         return customer_pass;
@@ -22,9 +74,7 @@ public class Customer {
         return customer_id;
     }
 
-    public void setCustomer_id(long customer_id) {
-        this.customer_id = customer_id;
-    }
+
 
 
 
@@ -42,13 +92,9 @@ public class Customer {
 
     }
 
-    public long getAccount_id(long customer_id) {
-        return customer_id;
-    }
 
-    public void setAccount_id(long customer_id) {
-        this.customer_id = customer_id;
-    }
+
+
 
     public String getCustomer_name() {
         return customer_name;
@@ -73,9 +119,30 @@ public class Customer {
     public void setAccount_approved(boolean account_approved) {
         this.account_approved = account_approved;
     }
+
+    public int getDeposit_checking() {
+        return deposit_checking;
+    }
+
+    public void setDeposit_checking(int deposit_checking) {
+        this.deposit_checking = deposit_checking;
+    }
+
     public Customer message(){
         Customer wow = new Customer();
         System.out.println("thanks");
         return wow;
+    }
+
+    @Override
+    public String toString() {
+        return "Customer{" +
+                "customer_id=" + customer_id +
+                ", customer_name='" + customer_name + '\'' +
+                ", account_id=" + account_id +
+                ", checking_account=" + checking_account +
+                ", savings_account=" + savings_account +
+                ", account_approval=" + account_approval +
+                '}';
     }
 }

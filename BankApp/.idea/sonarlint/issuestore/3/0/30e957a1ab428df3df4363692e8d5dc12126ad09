@@ -1,0 +1,13 @@
+
+a
+java:S1226
+"?Introduce a new variable instead of reusing the parameter "lg".(¾îµØøÿÿÿÿ8ãÃ Œ’/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÚ²8¶Ù¯‹’/
+X
+java:S1854"6Remove this useless assignment to local variable "bh".(…¿¦¾ûÿÿÿÿ8×ëÀ‹’/
+X
+java:S1854
+"6Remove this useless assignment to local variable "lg".(¾îµØøÿÿÿÿ8™¸‹’/
+a
+java:S1226"?Introduce a new variable instead of reusing the parameter "bh".(…¿¦¾ûÿÿÿÿ8šÚ Œ’/

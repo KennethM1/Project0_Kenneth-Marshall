@@ -1,0 +1,11 @@
+
+r	java:S116"VRename this field "employee_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( åß±8ù»¯‘/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÍ¢´8”İ¾¯‘/
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ñ„ñ8½¡»¯‘/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È°ÄÄ8â©£¯‘/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÙ…Îøÿÿÿÿ8â©£¯‘/
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ñ„ñ8í¨¯‘/
+y	java:S116"XRename this field "employee_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ú«ùÿÿÿÿ8Ø„¡¯‘/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÙ…Îøÿÿÿÿ8â©£¯‘/

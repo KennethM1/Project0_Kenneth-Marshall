@@ -1,0 +1,160 @@
+
+m	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û£šİ8ÂÇÙ‘/
+[	java:S106á"9Replace this use of System.out or System.err by a logger.(†ê¢‹ûÿÿÿÿ8€òÇÖ‘/
+n	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷€ÎÖ8’Ãî·‘/
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Çóºúÿÿÿÿ8Œş£²‘/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(îÍã8ŞşŸ‘‘/
+]
+java:S1128";Remove this unused import 'com.bankapp.model.BankAccounts'.( ¦£ßøÿÿÿÿ8 âñ‘/
+F
+java:S1125i")Remove the literal "false" boolean value.(»’½§8áÔˆã‘/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Äœşÿÿÿÿ8ÒŠö„’/
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(Ó†¡¹ıÿÿÿÿ8»Ø¡â‘/
+^	java:S125›"<This block of commented-out lines of code should be removed.(ÔæüŞÿÿÿÿÿ8ÌÁÿ„’/
+U	java:S106ª"9Replace this use of System.out or System.err by a logger.(èËÆ8„¼Õ‘/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûßàıüÿÿÿÿ8ò™£„’/
+r
+java:S2095°"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8«“ŠÚ‘/
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(îÍã8–¶´’/
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(ºš¶8æ­Ñâ‘/
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(Ç¸şä8¸ğ·‘/
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(îÍã8ÌÁÿ„’/
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ºö€ñøÿÿÿÿ8¸ğ·‘/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(îÍã8×ü±ƒ‘/
+s
+java:S1192r"QDefine a constant instead of duplicating this literal "checking_account" 3 times.(ÉĞ¶‰ÿÿÿÿÿ8»Ø¡â‘/
+p
+java:S1192"NDefine a constant instead of duplicating this literal "customer_name" 6 times.(‹ÿ¼±ùÿÿÿÿ8£ƒı¬‘/
+n	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á³ó8Ä©şƒ’/
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(îÍã8¼«ø„’/
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Çóºúÿÿÿÿ8Œş£²‘/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ÃÒ£©øÿÿÿÿ8Ìå¦‘‘/
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(¦­¼¦üÿÿÿÿ8®àÛ¯‘/
+„
+java:S1192Ù"aDefine a constant instead of duplicating this literal "UPDATE bank_schema.bankaccounts
+" 6 times.(í¹Òışÿÿÿÿ8¸˜§å‘/
+^	java:S125"<This block of commented-out lines of code should be removed.(ÔæüŞÿÿÿÿÿ8Ğî‚’/
+X	java:S125&"<This block of commented-out lines of code should be removed.(ÿüˆ8‡”£…‘/
+a
+java:S1155¾">Use isEmpty() to check whether the collection is empty or not.(®¿ƒùÿÿÿÿ8ËŸÜ‘/
+s	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Û³øÿÿÿÿÿ8û§ƒ€’/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îå¥İ8Ü±©ô/
+m
+java:S1192q"PDefine a constant instead of duplicating this literal "savings_account" 4 times.(ó±ÏØ8ÅøÎ‘/
+V	java:S106ø"9Replace this use of System.out or System.err by a logger.(óÀû8›Ö¹Ø‘/
+r
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®àÛ¯‘/
+s	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Û³øÿÿÿÿÿ8û§ƒ€’/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ä…ö8ŸÜÃ‹‘/
+r
+java:S2095¤"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ò™£„’/
+r	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÒ™ıÿÿÿÿ8Àœ™§‘/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ª…ùÿÿÿÿ8ŸÜÃ‹‘/
+Œ
+java:S1192ç"nDefine a constant instead of duplicating this literal "There has been an error related to the server" 8 times.(İòŒ§8¡£å‘/
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(ÙÂ‰˜8»Ø¡â‘/
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(îÍã8üèš€’/
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(÷õ°şÿÿÿÿ8İæó´‘/
+^	java:S125È"<This block of commented-out lines of code should be removed.(Ü÷¸ÿÿÿÿÿ8¤ï¸‚’/
+^	java:S125ª"<This block of commented-out lines of code should be removed.(ÔæüŞÿÿÿÿÿ8ò™£„’/
+s	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Û³øÿÿÿÿÿ8û§ƒ€’/
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(îÍã8‡’úá‘/
+n	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷€ÎÖ8’Ãî·‘/
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™”ñô8®ÂĞ¯‘/
+Y	java:S125Æ"<This block of commented-out lines of code should be removed.(Üª€Í8¨Ğ¯‚’/
+q
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8×ü±ƒ‘/
+^	java:S125å"<This block of commented-out lines of code should be removed.(ÔæüŞÿÿÿÿÿ8Ã¬ „’/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(îÍã8‡”£…‘/
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8İæó´‘/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "customer_id" 6 times.(¹Ä…ö8ÀÈÿ¬‘/
+n	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á³ó8Ä©şƒ’/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(÷õ°şÿÿÿÿ8®àÛ¯‘/
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(îÍã8ò™£„’/
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¦û÷ûÿÿÿÿ8¸ğ·‘/
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(ñ”úç8İæó´‘/
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(Ç‡ìâûÿÿÿÿ8¸ğ·‘/
+r
+java:S2095à"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ƒŒ‡„’/
+V	java:S106Ï"9Replace this use of System.out or System.err by a logger.(îÍã8¸ğ·‘/
+n	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷€ÎÖ8’Ãî·‘/
+q
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8‡’úá‘/
+V	java:S106í"9Replace this use of System.out or System.err by a logger.(îÍã8ƒŒ‡„’/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûßàıüÿÿÿÿ8ò™£„’/
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Íœ‚‘/
+q
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8—úé‘/
+U	java:S106¨"9Replace this use of System.out or System.err by a logger.(®ææ8İæó´‘/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(¸£Ú8ôü†‘/
+k
+java:S11927"IDefine a constant instead of duplicating this literal " Name : " 3 times.(Ó†¡¹ıÿÿÿÿ8»Ø¡â‘/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÊõæüÿÿÿÿ8Ü±©ô/
+r
+java:S2095ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8›Ö¹Ø‘/
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(ÉĞ¶‰ÿÿÿÿÿ8»Ø¡â‘/
+r
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¡£å‘/
+n	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÕ¡§8°¬¯Ø‘/
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(Ó†¡¹ıÿÿÿÿ8¸ğ·‘/
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(îÍã8€òÇÖ‘/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûßàıüÿÿÿÿ8ò™£„’/
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ì™°íıÿÿÿÿ8İæó´‘/
+r
+java:S2095–"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÌÁÿ„’/
+ƒ
+java:S2178i"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(»’½§8¿­Êƒ’/
+n
+java:S1192i"QDefine a constant instead of duplicating this literal "account_approval" 3 times.(»’½§8áÔˆã‘/
+^	java:S125¿"<This block of commented-out lines of code should be removed.(É¾ì¨ûÿÿÿÿ8¡Áİº‘/
+r	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÒ™ıÿÿÿÿ8Àœ™§‘/
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(¬¹Ÿ8İæó´‘/
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”Òá8—ß“å‘/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Ó†¡¹ıÿÿÿÿ8ôü†‘/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(¦û÷ûÿÿÿÿ8¨§“ã‘/
+r
+java:S2095¾"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¸ğ·‘/
+n	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èö¿Ú8ÒŠö„’/
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(ó±ÏØ8»Ø¡â‘/
+s	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Û³øÿÿÿÿÿ8û§ƒ€’/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÿ¼±ùÿÿÿÿ8ò™®…‘/
+^	java:S125€"<This block of commented-out lines of code should be removed.(ÔæüŞÿÿÿÿÿ8¼«ø„’/
+n	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èö¿Ú8ÒŠö„’/
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(îÍã8«“ŠÚ‘/
+r
+java:S1192‡"TDefine a constant instead of duplicating this literal "WHERE customer_id=?" 4 times.(Í×Ì’8¼«ø„’/
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(’ÏÖ‚ùÿÿÿÿ8İæó´‘/
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(ÔæüŞÿÿÿÿÿ8×óş´‘/
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™”ñô8®ÂĞ¯‘/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûßàıüÿÿÿÿ8ò™£„’/
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ì™Œøÿÿÿÿ8Ñ»”‘‘/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Äœşÿÿÿÿ8ÒŠö„’/
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ì™Œøÿÿÿÿ8¯‡É‘/
+K
+java:S1481M".Remove this unused "resultSet" local variable.(ò¡¥¹8İæó´‘/
+r
+java:S2095û"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¼«ø„’/
+£
+java:S1192u"€Define a constant instead of duplicating this literal "The Customer ID and Password entered does not match our records" 6 times.(¦û÷ûÿÿÿÿ8®àÛ¯‘/
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(†ãäØûÿÿÿÿ8úÍºÕ‘/
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”Òá8—ß“å‘/
+V	java:S106û"9Replace this use of System.out or System.err by a logger.(îÍã8›Ö¹Ø‘/
+‡
+java:S1192>"jDefine a constant instead of duplicating this literal "Internal error occured.. Contact sysadmin" 3 times.(‰ÿ—³8«“ŠÚ‘/
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(îÍã8İæó´‘/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûßàıüÿÿÿÿ8ò™£„’/
+r
+java:S2095À"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8–¶´’/
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(”Íı÷8†çúâ‘/
+e
+java:S2583l"CChange this condition so that it does not always evaluate to "true"(‘Ç„ìşÿÿÿÿ8Ê…Ôã‘/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ğÔù÷8ôü†‘/
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(îÍã8®àÛ¯‘/
+s	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÃ€Ùøÿÿÿÿ8˜ê¿Ö‘/
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(¦‘¯8¸ğ·‘/
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ş¼ç¬ùÿÿÿÿ8»Ø¡â‘/
+r
+java:S2095Ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8€òÇÖ‘/

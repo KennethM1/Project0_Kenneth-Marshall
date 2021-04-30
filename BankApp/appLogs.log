@@ -1,0 +1,405 @@
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 04:01:37                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:37                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:01:37                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:01:37                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:01:37                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:01:37                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:42                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 04:01:42                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 04:01:42                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 04:01:42                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:42                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:50                   
+[INFO]            - {org.example.BankMain}     Please Enter Your EmployeeID              Apr-30-21 Fri 04:01:50                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:50                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:54                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 04:01:54                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:01:54                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Welcome to your Employee Portalcarter how would you like to proceed?              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:02:11                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=101, customer_name='ben', account_balance=0.0, account_approved=false, customer_pass='null', customer_age=0, account_id=100, deposit_checking=0, checking_account=100, savings_account=0, account_approval=true, customer_user=null}              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=103, customer_name='charlie', account_balance=0.0, account_approved=false, customer_pass='null', customer_age=0, account_id=103, deposit_checking=0, checking_account=100, savings_account=150, account_approval=true, customer_user=null}              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=694, customer_name='kimmy', account_balance=0.0, account_approved=false, customer_pass='null', customer_age=0, account_id=466, deposit_checking=0, checking_account=0, savings_account=0, account_approval=false, customer_user=null}              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=100, customer_name='mike', account_balance=0.0, account_approved=false, customer_pass='null', customer_age=0, account_id=200, deposit_checking=0, checking_account=1590, savings_account=10, account_approval=true, customer_user=null}              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:02:22                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:08:28                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:08:32                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 04:11:06                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:06                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:11:06                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:11:06                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:11:06                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:11:06                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:12                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 04:11:12                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 04:11:12                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 04:11:12                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:12                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:14                   
+[INFO]            - {org.example.BankMain}     Please Enter Your EmployeeID              Apr-30-21 Fri 04:11:14                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:14                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:22                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 04:11:22                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:22                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Welcome to your Employee Portalcarter how would you like to proceed?              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:11:27                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=101, customer_name='ben', account_id=100, checking_account=100, savings_account=0, account_approval=true}              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=103, customer_name='charlie', account_id=103, checking_account=100, savings_account=150, account_approval=true}              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=694, customer_name='kimmy', account_id=466, checking_account=0, savings_account=0, account_approval=false}              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     Customer{customer_id=100, customer_name='mike', account_id=200, checking_account=1590, savings_account=10, account_approval=true}              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:11:31                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     1)View Specific Customer Accounts              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     2)View all Customer Accounts              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     3)Approve a Customer Account              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     4)Deny a Customer Account              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     5)View all Transactions              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-6) :               Apr-30-21 Fri 04:12:13                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:13:24                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:13:24                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:13:24                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:13:24                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:13:24                   
+[INFO]            - {org.example.BankMain}     =============The================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     =============Bank===============              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ==============Of================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ===========Kenneth==============              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}       "A Happy Home for Your Money"  ;)              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     =================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     =================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     =================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ===================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     ==================================              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     Please enter your first name              Apr-30-21 Fri 04:13:35                   
+[INFO]            - {org.example.BankMain}     Please enter your age              Apr-30-21 Fri 04:13:44                   
+[INFO]            - {org.example.BankMain}     Please enter your initial checking deposit amount              Apr-30-21 Fri 04:13:48                   
+[INFO]            - {org.example.BankMain}     Please enter your initial savings deposit amount              Apr-30-21 Fri 04:13:52                   
+[INFO]            - {org.example.BankMain}     Please enter your password              Apr-30-21 Fri 04:13:56                   
+[INFO]            - {org.example.BankMain}     Thank You! Your information will be viewed and either approved or rejected by our staff              Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     Your new Account ID is 884 and your new Customer ID is 627              Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:14:02                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 04:32:30                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:32:30                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:32:30                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:32:30                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:32:30                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:32:30                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:32:45                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 04:32:45                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 04:32:45                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 04:32:45                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:32:45                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:32:50                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:32:50                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:32:50                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:32:50                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:32:50                   
+[INFO]            - {org.example.BankMain}     =============The================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     =============Bank===============              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ==============Of================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ===========Kenneth==============              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}       "A Happy Home for Your Money"  ;)              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     =================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     =================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     =================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ===================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     ==================================              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     Please enter your first name              Apr-30-21 Fri 04:32:57                   
+[INFO]            - {org.example.BankMain}     Please enter your age              Apr-30-21 Fri 04:33:09                   
+[INFO]            - {org.example.BankMain}     Please enter your initial checking deposit amount              Apr-30-21 Fri 04:33:12                   
+[INFO]            - {org.example.BankMain}     Please enter your initial savings deposit amount              Apr-30-21 Fri 04:33:16                   
+[INFO]            - {org.example.BankMain}     Please enter your password              Apr-30-21 Fri 04:33:20                   
+[INFO]            - {org.example.BankMain}     Thank You! Your information will be viewed and either approved or rejected by our staff              Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     Your new Account ID is 283 and your new Customer ID is 468              Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 04:33:24                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 05:27:52                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:27:52                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 05:27:52                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 05:27:52                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 05:27:52                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 05:27:52                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:25                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 05:28:25                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 05:28:25                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 05:28:25                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:25                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:28                   
+[INFO]            - {org.example.BankMain}     Please Enter Your CustomerID              Apr-30-21 Fri 05:28:28                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:28                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:51                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 05:28:51                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:51                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 05:28:55                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : ben              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 100              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 101              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 0              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 100.0              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}                   Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 05:28:55                   
+[INFO]            - {org.example.BankMain}     How much would you like to withdraw?              Apr-30-21 Fri 05:29:23                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 05:29:31                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 05:29:35                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : ben              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 100              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 101              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 100              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 100.0              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 05:29:35                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 09:07:19                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:19                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 09:07:19                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 09:07:19                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 09:07:19                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 09:07:19                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:24                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 09:07:24                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 09:07:24                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 09:07:24                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:24                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:29                   
+[INFO]            - {org.example.BankMain}     Please Enter Your CustomerID              Apr-30-21 Fri 09:07:29                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:29                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:32                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 09:07:32                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:32                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:07:36                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 1590.0              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}                   Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 09:07:36                   
+[INFO]            - {org.example.BankMain}     How much would you like to withdraw?              Apr-30-21 Fri 09:07:52                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:07:56                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:07:56                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:07:56                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:07:56                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:07:56                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : -10.0              Apr-30-21 Fri 09:07:56                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 09:08:25                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:08:25                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 09:08:25                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 09:08:25                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 09:08:25                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 09:08:25                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 09:10:41                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:10:41                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 09:10:41                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 09:10:41                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 09:10:41                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 09:10:41                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:10:52                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 09:10:52                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 09:10:52                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 09:10:52                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:10:52                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:10:55                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 09:10:55                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 09:10:55                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 09:10:55                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 09:10:55                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:00                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 09:11:00                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 09:11:00                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 09:11:00                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:00                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:04                   
+[INFO]            - {org.example.BankMain}     Please Enter Your CustomerID              Apr-30-21 Fri 09:11:04                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:04                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:07                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 09:11:07                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:07                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:11:14                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 1000.0              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}                   Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 09:11:14                   
+[INFO]            - {org.example.BankMain}     How much would you like to withdraw?              Apr-30-21 Fri 09:11:21                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:11:24                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:11:24                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:11:24                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:11:24                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:11:24                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 1000.0              Apr-30-21 Fri 09:11:24                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 09:15:02                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:02                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 09:15:02                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 09:15:02                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 09:15:02                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 09:15:02                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:17                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 09:15:17                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 09:15:17                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 09:15:17                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:17                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:19                   
+[INFO]            - {org.example.BankMain}     Please Enter Your CustomerID              Apr-30-21 Fri 09:15:19                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:19                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:23                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 09:15:23                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:23                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:15:32                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 1000.0              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}                   Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 09:15:32                   
+[INFO]            - {org.example.BankMain}     How much would you like to withdraw?              Apr-30-21 Fri 09:15:38                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:15:42                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:15:42                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:15:42                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:15:42                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:15:42                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 950.0              Apr-30-21 Fri 09:15:42                   
+[INFO]            - {org.example.BankMain}     ============Welcome to The Bank of Kenneth================              Apr-30-21 Fri 09:16:48                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:48                   
+[INFO]            - {org.example.BankMain}     1)Login              Apr-30-21 Fri 09:16:48                   
+[INFO]            - {org.example.BankMain}     2)Sign Up              Apr-30-21 Fri 09:16:48                   
+[INFO]            - {org.example.BankMain}     3)EXIT              Apr-30-21 Fri 09:16:48                   
+[INFO]            - {org.example.BankMain}     Enter your choice(1-3) :               Apr-30-21 Fri 09:16:48                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:51                   
+[INFO]            - {org.example.BankMain}     1. Sign in as a Customer              Apr-30-21 Fri 09:16:51                   
+[INFO]            - {org.example.BankMain}     ========or========              Apr-30-21 Fri 09:16:51                   
+[INFO]            - {org.example.BankMain}     2. Sign in as a Employee              Apr-30-21 Fri 09:16:51                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:51                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:53                   
+[INFO]            - {org.example.BankMain}     Please Enter Your CustomerID              Apr-30-21 Fri 09:16:53                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:53                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:55                   
+[INFO]            - {org.example.BankMain}     Please Enter Your Password              Apr-30-21 Fri 09:16:55                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:55                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:16:58                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 950.0              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}                   Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 09:16:58                   
+[INFO]            - {org.example.BankMain}     How much would you like to withdraw?              Apr-30-21 Fri 09:17:00                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 09:17:05                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}     Hi               Apr-30-21 Fri 09:17:08                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Name : mike              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking ID : 200              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Customer ID : 100              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Savings Account Balance : 10              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {com.bankapp.impl.BankServiceDAOImpl}      Checking Account Balance : 940.0              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     ============================              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     1)Deposit into Checkings              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     2)Withdraw from Checkings              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     3)Deposit into Savings              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     4)Withdraw from Savings              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     5)Account Overview              Apr-30-21 Fri 09:17:08                   
+[INFO]            - {org.example.BankMain}     6)Exit              Apr-30-21 Fri 09:17:08                   

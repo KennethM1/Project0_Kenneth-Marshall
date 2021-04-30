@@ -1,0 +1,84 @@
+
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(Ëñ€°8…Ÿ×ı‘/
+[	java:S106²"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8£Šò‚’/
+D	java:S131º""Add a default case to this switch.(­øêÀıÿÿÿÿ8¦ß¹±‘/
+P
+java:S1481è"-Remove this unused "employee" local variable.(¸Ü–üÿÿÿÿ8Æí€à‘/
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8´¢¬Ü‘/
+O
+java:S1481"-Remove this unused "customer" local variable.(ğ¸°×şÿÿÿÿ8ˆ£¸„’/
+J
+java:S1481e"-Remove this unused "customer" local variable.(ò¢¼‰8Ÿ‘„’/
+H
+java:S1068"+Remove this unused "viewlog" private field.(ß¯°Í8üì®È‘/
+K
+java:S1481¢"-Remove this unused "employee" local variable.(Áâøå8¯ìÚµ‘/
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8äÙİ’/
+s	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÚÊìúÿÿÿÿ8°à“·‘/
+_
+java:S1854è"<Remove this useless assignment to local variable "employee".(¸Ü–üÿÿÿÿ8Æí€à‘/
+V	java:S106Ô"9Replace this use of System.out or System.err by a logger.(»¢“¼8´¢¬Ü‘/
+K
+java:S1481Ê"-Remove this unused "employee" local variable.(ÎõÓ8ƒõä²‘/
+Y
+java:S1854e"<Remove this useless assignment to local variable "customer".(ò¢¼‰8Ÿ‘„’/
+G
+java:S2140¢")Use "java.util.Random.nextInt()" instead.(ƒ‡—‰8½£—ş‘/
+K
+java:S1481ö"-Remove this unused "employee" local variable.(ÀæÒ‘8Ì¾ï×‘/
+J
+java:S1481r"-Remove this unused "customer" local variable.(¨Ç–î8»è·„’/
+Y
+java:S1854r"<Remove this useless assignment to local variable "customer".(¨Ç–î8»è·„’/
+Y
+java:S1128"<Remove this unused import 'com.bankapp.impl.BankServiceDAO'.(÷—Î†8ìŸµÜ‘/
+Z
+java:S1854¢"<Remove this useless assignment to local variable "employee".(Áâøå8¯ìÚµ‘/
+R
+java:S1172Ø"/Remove this unused method parameter "customer".(•ØÍùÿÿÿÿ8˜ãı©‘/
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞ÷×8˜ñû¶‘/
+s	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÙÜƒûÿÿÿÿ8ÊĞË¶‘/
+^
+java:S1854Z"<Remove this useless assignment to local variable "customer".(™À®Åÿÿÿÿÿ8Ÿ‘„’/
+m
+java:S1192]"PDefine a constant instead of duplicating this literal "Whats happening" 4 times.(Ëñ€°8»è·„’/
+J	java:S108'")Either remove or fill this block of code.(é–³öûÿÿÿÿ8˜ãı©‘/
+>	java:S131T""Add a default case to this switch.(ÃÊ‹÷8Êäèä‘/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Ëñ€°8ó¨‹„’/
+s	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€û‹ıÿÿÿÿ8´„ö¶‘/
+s	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óº¡ıÿÿÿÿ8¹š‘ƒ’/
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(Ëñ€°8»è·„’/
+^
+java:S1854"<Remove this useless assignment to local variable "customer".(ğ¸°×şÿÿÿÿ8ˆ£¸„’/
+a
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(ÛÒı³ûÿÿÿÿ8ÆìÙ’/
+]
+java:S1128"@Remove this unused import 'com.bankapp.impl.BankServiceDAOImpl'.(‚‚³8„ÄÈÜ‘/
+p
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(Çµí‘8Ç˜¡±‘/
+O
+java:S1481Z"-Remove this unused "customer" local variable.(™À®Åÿÿÿÿÿ8ßêİô‘/
+Y	java:S125Ç"<This block of commented-out lines of code should be removed.(¿†£‹8×İçª‘/
+„
+java:S1192‹"aDefine a constant instead of duplicating this literal "================================" 3 times.(æ±„Ïûÿÿÿÿ8œÅÆ¶‘/
+Z
+java:S1854Ê"<Remove this useless assignment to local variable "employee".(ÎõÓ8ƒõä²‘/
+n	java:S128»"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8¿¹š³‘/
+€
+java:S1192"^Define a constant instead of duplicating this literal "============================" 26 times.(çÓ’ïıÿÿÿÿ8˜ãı©‘/
+Z
+java:S1854ö"<Remove this useless assignment to local variable "employee".(ÀæÒ‘8Ì¾ï×‘/
+U	java:S106­"9Replace this use of System.out or System.err by a logger.(ˆ†8¥Ì’/
+]
+java:S1128";Remove this unused import 'com.bankapp.model.BankAccounts'.( ¦£ßøÿÿÿÿ8…À£ñ‘/
+Y
+java:S1854Ù"6Remove this useless assignment to local variable "c1".(»Û·‚ûÿÿÿÿ8˜ãı©‘/
+]	java:S125"<This block of commented-out lines of code should be removed.(ã¢ó¢ûÿÿÿÿ8“„šÅ‘/
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ëñ€°8ˆ£¸„’/
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8´¢¬Ü‘/
+Y	java:S125…"<This block of commented-out lines of code should be removed.(ŞŠÚ8’ÍŞº‘/
+J
+java:S1481Ù"'Remove this unused "c1" local variable.(»Û·‚ûÿÿÿÿ8˜ãı©‘/
+€
+java:S1192"bDefine a constant instead of duplicating this literal "=================================" 3 times.(ïùÄµ8œÅÆ¶‘/
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(²àç´ùÿÿÿÿ8ˆöç„’/
